@@ -15,7 +15,7 @@ BDD(Behavior Driven Development) to be implemented here soon.
 - Open your terminal.
 - Initialize git on your terminal.
 - git clone <https://github.com/ngala21/branch.git>.
-- open 'my-first' folder.
+- open 'branching-test-project' folder.
 - Run it on a browser preferably Chrome.
 
 
