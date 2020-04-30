@@ -14,7 +14,7 @@ BDD(Behavior Driven Development) to be implemented here soon.
 ## Setup/Installation Requirements
 - Open your terminal.
 - Initialize git on your terminal.
-- git clone <https://github.com/ngala21/my-first.git>.
+- git clone <https://github.com/ngala21/branch.git>.
 - open 'my-first' folder.
 - Run it on a browser preferably Chrome.
 
